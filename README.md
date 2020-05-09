@@ -55,3 +55,31 @@ The main complication on researching disaster relief is that researchers flockin
    2. What happens to people that can no longer pay for basic necessities? This one is related to the first one. If people that cannot pay for what they need are not tended for, there will be a large homeless population at the end of the pandemic when companies stop suspending rent or mortgage payments. These people may also be able to pay for their rent or mortgage, but may not have enough money left over to pay their bills.
    
    3. How do we find a balance between being locked inside and being safe? Research shows that social distancing works, but how do we handle those that refuse to follow the guidelines?
+
+---
+
+### Section 4: Engineering ethics
+
+**4.3.1 How does it mesh with your prior understanding of what computer engineering is about? Did you get a new perspective on an aspect that you hadn't considered up to now?
+
+This code meshes well with my previous understanding of Computer Engineering. In any field, there is a code in while you have to follow, and engineering is no different. I will say that I wasn't expecting it to be so in depth, however.
+
+**4.3.2 What does it address? At whom is it targetted? According to it, what is the most important element of ethical behavior when it comes to OSS? What OSS from Microsoft have we been using in our course?**
+
+The Microsoft code of conduct addresses how everyone should act while using any Microsoft application, or participating in an open source community. The code doesn't specifically call out one behaviour more than others, but it says that everyone should be friendly and patient, be welcoming, be respectful, and understand disagreements and learn from them. We have been using Github as an OSS from Microsoft for this course.
+
+**4.3.3 What is the main ethical aspect that is hinted at or stated in regards to data?**
+
+Data ethics focuses on the problems that arise from the colection and analysis of data. What this data is used for can be good or bad, creating issues with discrimination.
+
+**4.3.4 Why does a technical conference need its very own Code of Conduct? Use the contents to answer the question.**
+
+A conference needs a code of conduct because there is a certain way that everyone is expected to act to make the conference a comfortable environment for everyone and to make sure that nobody feel like they cannot participate.
+
+**4.3.5 What does Google appear to be concerned with? What kind of responsibility are they talking about?**
+
+It sounds like they are worried about AI discriminating against people and not really doing much else.
+
+**4.3.6 Tease apart the initially inconsistent, as it might appear at first, phrase "ethical hacking". That is, say a bit about "ethics" and "hacking" (as negatively construed), and then discuss how we can attach them together.**
+
+Ethical hacking is typically used by organizations to find faults in their systems so that they can work to fix those faults and make their systems more secure so that non-ethical hackers have a much harder time getting access and harming the system or the information that is stored on that system. 
