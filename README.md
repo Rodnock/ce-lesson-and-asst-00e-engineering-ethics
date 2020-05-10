@@ -100,12 +100,18 @@ A device implanted into a persons body that can detect cell irregularities and r
 
 2. The long term effects of the implant are unknown.
 
-3. Diagnosis can be inconsistant.
+3. Detection and diagnosis can be inconsistant.
 
 **5.3.2.ii.b Give an explicit definition of the fine line between the benefit and detriment of your innovation at two moments of innovation's lifetime: (a) immediately upon launch; and (b) after enough time has passed that it has been absorbed into everyday life.**
 
-a. 
+a. Any sort of implant can be dangerous. Plus, there would have to be lots of testing to make sure it is safe. The benefit would be early detection of cancer and other abnormal cells.
+
+b. The benefit will have detected and diagnosed lots of cancer in the early stages. However, as mentioned above, long term effects are unknown, and they may start showing up as being deadly at some point.
 
 **5.3.3 How are you going to ensure that you stay the course?**
 
+Be sure that everyone follows the code of conduct and remembers the good that the device can do if used properly. 
+
 **5.3.4 Define a Code of Ethics (aka Code of Conduct) for your organization, that will safeguard your original intentions and values while not stiflying innovation as your startup grows and matures. Your code should have at most 9 points.**
+
+
