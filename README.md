@@ -114,4 +114,15 @@ Be sure that everyone follows the code of conduct and remembers the good that th
 
 **5.3.4 Define a Code of Ethics (aka Code of Conduct) for your organization, that will safeguard your original intentions and values while not stiflying innovation as your startup grows and matures. Your code should have at most 9 points.**
 
+### Code of Conduct
+
+We take our customers health and our employees responsibilities very seriously. All employees are expected to abidy by the following code.
+
+1. The health of the customer comes first. In all we do, we are always thinking of ways to improve our device to make it the most safe and most reliable that it can be. Because the health and safety of our customers is paramount.
+
+2. All people are equal. Act with integrity and professionalism no matter whom you are conversing with. All employees at the company want the same thing, to better mankind and make cancer a thing of the past.
+
+3. Ensure that everything is done with the utmost quality and care. 
+
+4. No conflicts of interest. Protect the companies information and assets.
 
